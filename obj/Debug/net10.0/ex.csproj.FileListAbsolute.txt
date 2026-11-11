@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ex\bin\Debug\net10.0\ex.exe
+C:\Users\Admin\Desktop\ex\bin\Debug\net10.0\ex.deps.json
+C:\Users\Admin\Desktop\ex\bin\Debug\net10.0\ex.runtimeconfig.json
+C:\Users\Admin\Desktop\ex\bin\Debug\net10.0\ex.dll
+C:\Users\Admin\Desktop\ex\bin\Debug\net10.0\ex.pdb
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.dll
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\refint\ex.dll
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.pdb
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ex.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ex\obj\Debug\net10.0\ref\ex.dll
